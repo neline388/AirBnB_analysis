@@ -1,2 +1,2 @@
 # AirBnB_analysis
-sicily AirBnB data analysis using tableau with the aim of consulting in real estate transactions
+A university project focusing on Sicily Airbnb data analysis using Tableau to consult in real estate transactions
